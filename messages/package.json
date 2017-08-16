@@ -8,7 +8,8 @@
     "botbuilder-azure": "3.0.2"
   },
   "devDependencies": {
-      "restify": "^4.1.1"
+      "restify": "^4.1.1",
+       "mysql2": "^1.4.0",
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
