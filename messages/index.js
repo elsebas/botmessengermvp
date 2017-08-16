@@ -30,7 +30,7 @@ bot.dialog('hidialog',
     {
         
        session.send('Hi %s!', session.message.address.user.name);
-       session.send('blablalba, please type "name" ');
+       session.send('blablabla, please type "name" ');
        session.send('if you want more information, please type "info" ');
         session.endDialog(); 
        
